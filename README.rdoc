@@ -10,6 +10,10 @@ Aplicación para llevar traza de los préstamos de materiales del Laboratorio de
 
 Y listo, un rails s y a probar en http://localhost:3000/ (usuario 'admin@lab.com', contraseña '123456')
 
+== Colaboraciones
+
+Son bienvenidas y agradecidas las colaboraciones de cualquier tipo. Este es un proyecto entre amigos, y cualquier puede hacer amigo =)
+
 === Build Status {<img src="https://secure.travis-ci.org/francocatena/lab.png"/>}[http://travis-ci.org/francocatena/lab]
 
 === Dependency Status {<img src="https://gemnasium.com/francocatena/lab.png?travis"/>}[https://gemnasium.com/francocatena/lab]

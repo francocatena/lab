@@ -5,6 +5,7 @@ Aplicación para llevar traza de los préstamos de materiales del Laboratorio de
 == Instalación
 
 * Crear el usuario "lab" en PostgreSQL con contraseña "lab" (o cambiar config/database.yml)
+* Copiar y editar la configuración de ejemplo (config/app_config.example.yml config/app_config.yml)
 * Ejecutar rake db:create:all
 * Ejecutar rake db:migrate && rake db:seed
 

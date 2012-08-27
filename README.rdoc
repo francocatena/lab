@@ -13,7 +13,7 @@ Y listo, un rails s y a probar en http://localhost:3000/ (usuario 'admin@lab.com
 
 == Colaboraciones
 
-Son bienvenidas y agradecidas las colaboraciones de cualquier tipo. Este es un proyecto entre amigos, y cualquier puede hacer amigo =)
+Son bienvenidas y agradecidas las colaboraciones de cualquier tipo. Este es un proyecto entre amigos, y cualquiera puede hacerse amigo =)
 
 === Build Status {<img src="https://secure.travis-ci.org/francocatena/lab.png"/>}[http://travis-ci.org/francocatena/lab]
 

@@ -11,7 +11,7 @@ class User < ActiveRecord::Base
     :validatable
 
   # Setup accessible (or protected) attributes for your model
-  attr_accessible :name, :lastname, :email, :password, :password_confirmation,
+  attr_accessible :dni, :legajo, :fechanacimiento, :direccion, :telefono, :celular, :observaciones, :name, :lastname, :email, :password, :password_confirmation,
     :role, :remember_me, :lock_version
   
   # Defaul order
